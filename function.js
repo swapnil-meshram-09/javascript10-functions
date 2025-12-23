@@ -11,7 +11,6 @@ result();
 
 
 
-
 // variable function
 
 // func();                   // error
